@@ -1,0 +1,21 @@
+Code repository for Nature Communications Manuscript  NCOMMS-23-59295-T “Scale-tailored localization and its observation in non-Hermitian electrical circuits”
+
+Instruction for use:
+
+1. Folder : Fig1_Code
+Run "Fig1_Data.m" to get data "Er.txt, Ei.txt, N1.txt, Ns.txt, R.txt, V.txt, Vc.txt, Vs.txt";
+Then run "Fig1_bcde_Plots.nb" to get Fig.1(b)-(e).
+
+2. Folder : Fig3_Code
+Run "L=4.nb" to get data "L_4-E-expr.txt, L_4-E-theo.txt, L_4-R.txt, L_4-V-expr.txt, L_4-V-theo.txt, L_4-Vscale-expr.txt, L_4-Vscale-theo.txt";
+Run "L=6.nb" to get data "L_6-E-expr.txt, L_6-E-theo.txt, L_6-R.txt, L_6-V-expr.txt, L_6-V-theo.txt, L_6-Vscale-expr.txt, L_6-Vscale-theo.txt";
+Run "L=9.nb" to get data "L_9-E-expr.txt, L_9-E-theo.txt, L_9-R.txt, L_9-V-expr.txt, L_9-V-theo.txt, L_9-Vscale-expr.txt, L_9-Vscale-theo.txt";
+Run "L=15.nb" to get data "L_15-E-expr.txt, L_15-E-theo.txt, L_15-R.txt, L_15-V-expr.txt, L_15-V-theo.txt, L_15-Vscale-expr.txt, L_15-Vscale-theo.txt";
+Then run "Fig3_de_Plots.nb" to get Fig.3(d)-(e).
+
+Notice: The original data are provided in the files: "L=4 (Exp_Data).txt, L=6 (Exp_Data).txt, L=9 (Exp_Data).txt, L=15 (Exp_Data).txt".
+
+3. Folder : Fig4_Code
+Run "Fig4_b_Plot.m" to get Fig.4(b).
+
+Notice: The original data are provided in the files: "L=6.txt, L=11.txt, L=16.txt".
